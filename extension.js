@@ -1,13 +1,13 @@
-import vscode from "vscode";
+const vscode = require("vscode");
 
 /**
  * @param {vscode.ExtensionContext} context
  */
-function activate(context) {}
+function activate() {}
 
 function deactivate() {}
 
-export default {
+module.exports = {
   activate,
   deactivate,
 };
