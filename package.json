@@ -2,7 +2,7 @@
   "name": "vintagestory-jsonschemas",
   "displayName": "VintageStory JsonSchemas",
   "description": "A simple extension to add IntelliSense support for VintageStory (json game assets)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/darkhekromant/vintagestory-jsonschemas",
   "publisher": "darkhekromant",
   "engines": {
