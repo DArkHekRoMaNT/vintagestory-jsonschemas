@@ -25,241 +25,241 @@
       },
       {
         "fileMatch": [
-          "**/assets/*/game/blocktypes/**"
+          "**/assets/*/blocktypes/**"
         ],
         "url": "./schemas/game/blocktypes.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/handbook/**"
+          "**/assets/*/config/handbook/**"
         ],
         "url": "./schemas/game/config/handbook.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/lore/**"
+          "**/assets/*/config/lore/**"
         ],
         "url": "./schemas/game/config/lore.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/weatherevents/**"
+          "**/assets/*/config/weatherevents/**"
         ],
         "url": "./schemas/game/config/weatherevents.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/weatherpatterns/**"
+          "**/assets/*/config/weatherpatterns/**"
         ],
         "url": "./schemas/game/config/weatherpatterns.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/windpatterns/**"
+          "**/assets/*/config/windpatterns/**"
         ],
         "url": "./schemas/game/config/windpatterns.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/characterclasses.json"
+          "**/assets/*/config/characterclasses.json"
         ],
         "url": "./schemas/game/config/characterclasses.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/colormaps.json"
+          "**/assets/*/config/colormaps.json"
         ],
         "url": "./schemas/game/config/colormaps.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/general.json"
+          "**/assets/*/config/general.json"
         ],
         "url": "./schemas/game/config/general.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/remaps.json"
+          "**/assets/*/config/remaps.json"
         ],
         "url": "./schemas/game/config/remaps.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/traderaccessories.json"
+          "**/assets/*/config/traderaccessories.json"
         ],
         "url": "./schemas/game/config/traderaccessories.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/traits.json"
+          "**/assets/*/config/traits.json"
         ],
         "url": "./schemas/game/config/traits.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/config/weather.json"
+          "**/assets/*/config/weather.json"
         ],
         "url": "./schemas/game/config/weather.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/dialog/**"
+          "**/assets/*/dialog/**"
         ],
         "url": "./schemas/game/dialog.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/entities/**"
+          "**/assets/*/entities/**"
         ],
         "url": "./schemas/game/entities.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/itemtypes/**"
+          "**/assets/*/itemtypes/**"
         ],
         "url": "./schemas/game/itemtypes.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/lang/**"
+          "**/assets/*/lang/**"
         ],
         "url": "./schemas/game/lang.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/patches/**"
+          "**/assets/*/patches/**"
         ],
         "url": "./schemas/game/patches.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/alloy/**"
+          "**/assets/*/recipes/alloy/**"
         ],
         "url": "./schemas/game/recipes/alloy.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/barrel/**"
+          "**/assets/*/recipes/barrel/**"
         ],
         "url": "./schemas/game/recipes/barrel.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/clayforming/**"
+          "**/assets/*/recipes/clayforming/**"
         ],
         "url": "./schemas/game/recipes/clayforming.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/cooking/**"
+          "**/assets/*/recipes/cooking/**"
         ],
         "url": "./schemas/game/recipes/cooking.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/grid/**"
+          "**/assets/*/recipes/grid/**"
         ],
         "url": "./schemas/game/recipes/grid.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/knapping/**"
+          "**/assets/*/recipes/knapping/**"
         ],
         "url": "./schemas/game/recipes/knapping.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/recipes/smithing/**"
+          "**/assets/*/recipes/smithing/**"
         ],
         "url": "./schemas/game/recipes/smithing.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/deposits/**"
+          "**/assets/*/worldgen/deposits/**"
         ],
         "url": "./schemas/game/worldgen/deposits.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/schematics/**"
+          "**/assets/*/worldgen/schematics/**"
         ],
         "url": "./schemas/game/worldgen/schematics.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/treegen/**"
+          "**/assets/*/worldgen/treegen/**"
         ],
         "url": "./schemas/game/worldgen/treegen.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/blocklayers.json"
+          "**/assets/*/worldgen/blocklayers.json"
         ],
         "url": "./schemas/game/worldgen/blocklayers.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/blockpatches.json"
+          "**/assets/*/worldgen/blockpatches.json"
         ],
         "url": "./schemas/game/worldgen/blockpatches.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/deposits.json"
+          "**/assets/*/worldgen/deposits.json"
         ],
         "url": "./schemas/game/worldgen/deposits.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/geologicprovinces.json"
+          "**/assets/*/worldgen/geologicprovinces.json"
         ],
         "url": "./schemas/game/worldgen/geologicprovinces.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/global.json"
+          "**/assets/*/worldgen/global.json"
         ],
         "url": "./schemas/game/worldgen/global.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/landforms.json"
+          "**/assets/*/worldgen/landforms.json"
         ],
         "url": "./schemas/game/worldgen/landforms.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/layers.json"
+          "**/assets/*/worldgen/layers.json"
         ],
         "url": "./schemas/game/worldgen/layers.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/rockstrata.json"
+          "**/assets/*/worldgen/rockstrata.json"
         ],
         "url": "./schemas/game/worldgen/rockstrata.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/structures.json"
+          "**/assets/*/worldgen/structures.json"
         ],
         "url": "./schemas/game/worldgen/structures.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/treengenproperties.json"
+          "**/assets/*/worldgen/treengenproperties.json"
         ],
         "url": "./schemas/game/worldgen/treengenproperties.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/villages.json"
+          "**/assets/*/worldgen/villages.json"
         ],
         "url": "./schemas/game/worldgen/villages.json"
       },
       {
         "fileMatch": [
-          "**/assets/*/game/worldgen/worldproperties/**"
+          "**/assets/*/worldgen/worldproperties/**"
         ],
         "url": "./schemas/game/worldgen/worldproperties.json"
       }
